@@ -1,0 +1,4 @@
+batch_size: 10
+classifier_hidden_size: 14
+encoder_hidden_size: 128
+learning_rate: 0.001
